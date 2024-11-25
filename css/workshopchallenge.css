@@ -1,0 +1,22 @@
+.card{
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 25px 10px;
+    background-color: rgb(51, 0, 147);
+    color: white !important;
+}
+.b1{
+    background-color: #00073d;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+}
+.b1:hover{
+    background-color: #000000;
+    color: white;
+}
